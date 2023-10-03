@@ -1,0 +1,13 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "functional": "cpp"
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/.pio/libdeps/esp32cam/esp32-camera"
+}
