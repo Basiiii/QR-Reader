@@ -2,6 +2,8 @@
 
 This is a QR code reader built for the Schoolit project, intended to be implemented in the ESP-32-CAM module by Espressif Systems.
 
+https://github.com/Basiiii/QR-Reader/assets/90209339/47fab358-f887-49ce-a72f-b4310dfadde8
+
 ## Description
 
 This QR code reader was specifically designed for the ESP-32-CAM module by Espressif. Its primary function is to capture and decode QR codes, allowing seamless integration with the Schoolit project. The project's main objective is to provide students with an efficient way to mark their attendance using their smartphones.
